@@ -1,0 +1,3 @@
+[submodule "online-rulebook"]
+	path = online-rulebook
+	url = https://github.com/MakoBatGirlFailure/vectors-online-rulebook
